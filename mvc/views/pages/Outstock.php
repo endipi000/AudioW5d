@@ -1,0 +1,1 @@
+<p>Hôm nay Hết kem rồi ... </p><p>Nên form đặt hàng bị khóa.</p><p>Vui lòng đặt lại vào ngày mai nhé.</p><p>Hoặc đặt hàng ngay tại khung bên dưới</p>
