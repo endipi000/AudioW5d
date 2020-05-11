@@ -1,0 +1,856 @@
+Be careful driving.*Lái xe cẩn thận.
+Be careful.*Hãy cẩn thận.
+Can you translate this for me?*Bạn có thể dịch cho tôi cái này được không?
+Chicago is very different from Boston.*Chicago rất khác Boston.
+Don't worry.*Đừng lo.
+Everyone knows it.*Mọi người biết điều đó.
+Everything is ready.*Mọi thứ đã sẵn sàng.
+Excellent.*Xuất sắc.
+From time to time.*Thỉnh thoảng.
+Good idea.*Ý kiến hay.
+He likes it very much.*Anh ta thích nó lắm.
+Help!*Giúp tôi!
+He's coming soon.*Anh ta sắp tới.
+He's right.*Anh ta đúng.
+He's very annoying.*Anh ta quấy rối quá.
+He's very famous.*Anh ta rất nổi tiếng.
+How are you?*Bạn khỏe không?
+How's work going?*Việc làm thế nào?
+Hurry!*Nhanh lên!
+I ate already.*Tôi đã ăn rồi.
+I can't hear you.*Tôi không thể nghe bạn nói.
+I don't know how to use it.*Tôi không biết cách dùng nó.
+I don't like him.*Tôi không thích anh ta.
+I don't like it.*Tôi không thích nó.
+I don't speak very well.*Tôi không nói giỏi lắm
+I don't understand.*Tôi không hiểu.
+I don't want it.*Tôi không muốn nó.
+I don't want that.*Tôi không muốn cái đó.
+I don't want to bother you.*Tôi không muốn làm phiền bạn.
+I feel good.*Tôi cảm thấy khỏe.
+I get off of work at 6.*Tôi xong việc lúc 6 giờ.
+I have a headache.*Tôi bị nhức đầu.
+I hope you and your wife have a nice trip.*Tôi hy vọng bạn và vợ bạn có một chuyến đi thú vị.
+I know.*Tôi biết.
+I like her.*Tôi thích cô ta.
+I lost my watch.*Tôi bị mất đồng hồ.
+I love you.*Tôi yêu bạn.
+I need to change clothes.*Tôi cần thay quần áo.
+I need to go home.*Tôi cần về nhà.
+I only want a snack.*Tôi chỉ cần món ăn nhẹ.
+I think it tastes good.*Tôi nghĩ nó ngon.
+I think it's very good.*Tôi nghĩ nó rất tốt.
+I thought the clothes were cheaper.*Tôi nghĩ quần áo rẻ hơn.
+I was about to leave the restaurant when my friends arrived.*Tôi sắp rời nhà hàng khi những người bạn của tôi tới.
+I'd like to go for a walk.*Tôi muốn đi dạo.
+If you need my help, please let me know.*Nếu bạn cần tôi giúp đỡ, làm ơn cho tôi biết.
+I'll call you when I leave.*Tôi sẽ gọi bạn khi tôi ra đi.
+I'll come back later.*Tôi sẽ trở lại sau.
+I'll pay.*Tôi sẽ trả.
+I'll take it.*Tôi sẽ mua nó.
+I'll take you to the bus stop.*Tôi sẽ đưa bạn tới trạm xe buýt.
+I'm an American.*Tôi là một người Mỹ.
+I'm cleaning my room.*Tôi đang lau chùi phòng.
+I'm cold.*Tôi lạnh.
+I'm coming to pick you up.*Tôi đang tới đón bạn.
+I'm going to leave.*Tôi sắp đi.
+I'm good, and you?*Tôi khỏe, còn bạn?
+I'm happy.*Tôi vui.
+I'm hungry.*Tôi đói.
+I'm married.*Tôi có gia đình.
+I'm not busy.*Tôi không bận.
+I'm not married.*Tôi không có gia đình.
+I'm not ready yet.*Tôi chưa sẵn sàng.
+I'm not sure.*Tôi không chắc.
+I'm sorry, we're sold out.*Tôi rất tiếc, chúng tôi hết hàng.
+I'm thirsty.*Tôi khát.
+I'm very busy. I don't have time now.*Tôi rất bận. Bây giờ tôi không có thời gian.
+Is Mr. Smith an American?*Ông Smith có phải là người Mỹ không?
+Is that enough?*Như vậy đủ không?
+It's longer than 2 miles.*Nó dài hơn 2 dặm.
+I've been here for two days.*Tôi đã ở đây 2 ngày.
+I've heard Texas is a beautiful place.*Tôi đã nghe Texas là một nơi đẹp.
+I've never seen that before.*Tôi chưa bao giờ thấy cái đó trước đây.
+Just a little.*Một ít thôi.
+Just a moment.*Chờ một chút.
+Let me check.*Để tôi kiểm tra.
+Let me think about it.*Để tôi suy nghĩ về việc đó.
+Let's go have a look.*Chúng ta hãy đi xem.
+Let's practice English.*Chúng ta hãy thực hành tiếng Anh.
+May I speak to Mrs. Smith please?*Tôi có thể nói với bà Smith không, xin vui lòng?
+More than that.*Hơn thế.
+Never mind.*Đừng bận tâm.
+Next time.*Kỳ tới.
+No, thank you.*Không, cám ơn.
+No.*Không.
+Nonsense.*Vô lý.
+Not recently.*Không phải lúc gần đây.
+Not yet.*Chưa.
+Nothing else.*Không còn gì khác.
+Of course.*Dĩ nhiên.
+Okay.*Được.
+Please fill out this form.*Làm ơn điền vào đơn này.
+Please take me to this address.*Làm ơn đưa tôi tới địa chỉ này.
+Please write it down.*Làm ơn viết ra giấy.
+Really?*Thực sao?
+Right here.*Ngay đây.
+Right there.*Ngay đó.
+See you later.*Gặp bạn sau.
+See you tomorrow.*Gặp bạn ngày mai.
+See you tonight.*Gặp bạn tối nay.
+She's pretty.*Cô ta đẹp.
+Sorry to bother you.*Xin lỗi làm phiền bạn.
+Stop!*Dừng lại!
+Take a chance.*Thử vận may.
+Take it outside.*Mang nó ra ngoài.
+Tell me.*Nói với tôi.
+Thank you miss.*Cám ơn cô.
+Thank you sir.*Cám ơn ông.
+Thank you very much.*Cám ơn rất nhiều.
+Thank you.*Cám ơn.
+Thanks for everything.*Cám ơn về mọi việc.
+Thanks for your help.*Cám ơn về sự giúp đỡ của bạn.
+That looks great.*Cái đó trông tuyệt.
+That smells bad.*Cái đó ngửi hôi.
+That's alright.*Được thôi.
+That's enough.*Như vậy đủ rồi.
+That's fine.*Như vậy tốt rồi.
+That's it.*Như vậy đó.
+That's not fair.*Như vậy không công bằng.
+That's not right.*Như vậy không đúng.
+That's right.*Đúng rồi.
+That's too bad.*Như vậy quá tệ.
+That's too many.*Như vậy nhiều quá.
+That's too much.*Như vậy nhiều quá.
+The book is under the table.*Quyển sách ở dưới cái bàn.
+They'll be right back.*Họ sẽ trở lại ngay.
+They're the same.*Chúng giống nhau.
+They're very busy.*Họ rất bận.
+This doesn't work.*Cái này không hoạt động.
+This is very difficult.*Cái này rất khó.
+This is very important.*Điều này rất quan trọng.
+Try it.*Thử nó.
+Very good, thanks.*Rất tốt, cám ơn.
+We like it very much.*Chúng tôi thích nó lắm.
+Would you take a message please?*Bạn nhận giùm một tin nhắn được không?
+Yes, really.*Vâng, thực sự.
+Your things are all here.*Tất cả đồ của bạn ở đây.
+You're beautiful.*Bạn đẹp.
+You're very nice.*Bạn rất dễ thương.
+You're very smart.*Bạn rất thông minh.
+Certainly!*Dĩ nhiên!
+Good afternoon.*Chào (buổi chiều)
+Good evening sir.*Chào ông (buổi tối)
+Good Luck.*Chúc may mắn.
+Good morning.*Chào (buổi sáng)
+Great.*Tuyệt.
+Happy Birthday.*Chúc mừng sinh nhật.
+Have a good trip.*Chúc một chuyến đi tốt đẹp.
+Hello.*Chào.
+Nice to meet you*Rất vui được gặp bạn.
+Please call me.*Làm ơn gọi cho tôi.
+A one way ticket.*Vé một chiều.
+A round trip ticket.*Vé khứ hồi.
+About 300 kilometers.*Khoảng 300 cây số.
+Are you going to help her?*Bạn sẽ giúp cô ta không?
+At what time?*Lúc mấy giờ?
+Can I make an appointment for next Wednesday?*Tôi có thể xin hẹn vào thứ tư tới không?
+Can you repeat that please?*Bạn có thể lập lại điều đó được không?
+Do you have enough money?*Bạn có đủ tiền không?
+Do you know how to cook?*Bạn có biết nấu ăn không?
+Do you know what this says?*Bạn có biết cái này nói gì không?
+Do you want me to come and pick you up?*Bạn có muốn tôi tới đón bạn không?
+Does this road go to New York?*Con đường này có tới New York không?
+Follow me.*Theo tôi.
+From here to there.*Từ đây đến đó.
+Go straight ahead.*Đi thẳng trước mặt.
+Have you arrived?*Bạn tới chưa?
+Have you been to Boston?*Bạn từng tới Boston chưa?
+How do I get there?*Làm sao tôi tới đó?
+How do I get to Daniel Street?*Làm sao tôi tới đường Daniel?
+How do I get to the American Embassy?*Làm sao tôi tới tòa đại sứ Mỹ?
+How long does it take by car?*Đi bằng xe mất bao lâu?
+How long does it take to get to Georgia?*Tới Georgia mất bao lâu?
+How long is the flight?*Chuyến bay bao lâu?
+How was the movie?*Bộ phim thế nào?
+I have a question I want to ask you./ I want to ask you a question.*Tôi có câu hỏi muốn hỏi bạn/ Tôi muốn hỏi bạn một câu hỏi.
+I wish I had one.*Tôi ước gì có một cái.
+I'd like to make a phone call.*Tôi muốn gọi điện thoại.
+I'd like to make a reservation.*Tôi muốn đặt trước.
+I'll take that one also.*Tôi cũng sẽ mua cái đó.
+I'm coming right now.*Tôi tới ngay.
+I'm going home in four days.*Tôi sẽ đi về nhà trong vòng 4 ngày.
+I'm leaving Tomorrow.*Ngày mai tôi sẽ đi.
+I'm looking for the post office.*Tôi đang tìm bưu điện.
+Is this pen yours?*Cái bút này có phải của bạn không?
+One ticket to New York please.*Một vé đi New York, xin vui lòng.
+One way or round trip?*Một chiều hay khứ hồi?
+Please speak slower.*Làm ơn nói chậm hơn.
+Please take me to the airport.*Làm ơn đưa tôi tới phi trường.
+That way.*Lối đó.
+The plane departs at 5:30P.*Máy bay cất cánh lúc 5:30 chiều.
+They arrived yesterday.*Họ tới ngày hôm qua.
+Turn around.*Quay lại.
+Turn left.*Rẽ trái.
+Turn right.*Rẽ phải.
+What time are you going to the bus station?*Mấy giờ bạn sẽ ra trạm xe buýt?
+When did this happen?*Việc này xảy ra khi nào?
+When did you arrive in Boston?*Bạn đã tới Boston khi nào?
+When do we arrive?*Khi nào chúng ta tới nơi?
+When do we leave?*Khi nào chúng ta ra đi?
+When does he arrive?*Khi nào anh ta tới?
+When does it arrive?*Khi nào nó tới?
+When does the bank open?*Khi nào ngân hàng mở cửa?
+When does the bus leave?*Khi nào xe buýt khởi hành?
+Where can I mail this?*Tôi có thể gửi bưu điện cái này ở đâu?
+Where is she from?*Cô ta từ đâu tới?
+Where is the bathroom?*Phòng tắm ở đâu?
+Why not?*Tại sao không?
+Will you remind me?*Làm ơn nhắc tôi.
+11 dollars.*11 đô.
+52 cents.*52 xu.
+A few.*Một vài.
+A little.*Một ít.
+Call the police.*Gọi cảnh sát.
+Did your wife like California?*Vợ của bạn có thích California không?
+Do you have any coffee?*Bạn có cà phê không?
+Do you have anything cheaper?*Bạn có thứ gì rẻ hơn không?
+Do you take credit cards?*Bạn có nhận thẻ tín dụng không?
+How are you paying?*Bạn trả bằng gì?
+How many people are there in New York?*Ở New York có bao nhiêu người?
+How much are these earrings?*Đôi bông tai này giá bao nhiêu?
+How much do I owe you?*Tôi nợ bạn bao nhiêu?
+How much does it cost per day?*Giá bao nhiêu một ngày?
+How much does this cost?*Nó giá bao nhiêu?
+How much is it to go to Miami?*Tới Miami giá bao nhiêu?
+How much money do you make?*Bạn kiếm bao nhiêu tiền?
+I don't have a girlfriend.*Tôi không có bạn gái.
+I don't have any money.*Tôi không có tiền.
+I have a reservation.*Tôi đã đặt trước.
+I need to practice my English.*Tôi cần thực hành tiếng Anh.
+I'd like to eat at 5th street restaurant.*Tôi muốn ăn ở nhà hàng trên đường số 5.
+I'll have the same thing.*Tôi sẽ có cùng món như vậy.
+I'll pay for dinner.*Tôi sẽ trả tiền cho bữa tối.
+I'll pay for the tickets.*Tôi sẽ trả tiền vé.
+I'm 26 years old.*Tôi 26 tuổi.
+Is that ok?*Như vậy được không?
+Is there any mail for me?*Có thư cho tôi không?
+Isn't it?*Phải không?
+It's 11:30pm.*Bây giờ là 11:30 tối.
+It's is a quarter past nine.*Bây giờ là 9 giờ 15.
+Please come in.*Làm ơn vào đi.
+Sorry, we don't accept credit cards.*Xin lỗi, chúng tôi không nhận thẻ tín dụng.
+Sorry, we only accept Cash.*Xin lỗi, chúng tôi chỉ nhận tiền mặt.
+That restaurant is not expensive.*Nhà hàng đó không đắt.
+That's too expensive.*Như vậy đắt quá.
+There are many people here.*Ở đây có nhiều người.
+They charge 26 dollars per day.*Họ tính 26 đô một ngày.
+What's the exchange rate for dollars?*Hối suất đô la là bao nhiêu?
+What's the phone number?*Số điện thoại là gì?
+Where can I buy tickets?*Tôi có thể mua vé ở đâu?
+Where would you like to meet?*Bạn muốn gặp nhau ở đâu?
+Which one is better?*Cái nào tốt hơn?
+Across from the post office.*Đối diện bưu điện.
+At 3 o'clock.*Lúc 3 giờ.
+Be quiet.*Hãy yên lặng.
+Can you recommend a good restaurant?*Bạn có thể đề nghị một nhà hàng ngon không?
+He studies at Boston University.*Anh ta học ở đại học Boston.
+Here it is.*Nó đây.
+Here you are.*Đây nè.
+He's in the kitchen.*Anh ta ở trong bếp.
+How far is it to Chicago?*Tới Chicago bao xa?
+How far is it?*Nó bao xa?
+How many miles is it to Pennsylvania?*Tới Pennsylvania bao nhiêu dặm?
+I like to watch TV.*Tôi thích xem tivi.
+I was going to the library.*Tôi sắp đi tới thư viện.
+I was in the library.*Tôi ở trong thư viện.
+I'd like a single room.*Tôi muốn một phòng đơn.
+It's delicious!*Món này ngon!
+It's half past 11.*Bây giờ là 11 giờ rưỡi.
+It's less than 5 dollars.*Nó ít hơn 5 đô.
+It's more than 5 dollars.*Nó hơn 5 đô.
+It's near the Supermarket.*Nó gần siêu thị.
+it's not supposed to rain today.*Hôm nay có lẽ không mưa.
+It's ok.*Được rồi.
+It's on 7th street.*Nó trên đường số 7.
+It's really hot.*Thực là nóng.
+It's suppose to rain tomorrow.*Trời có thể mưa ngày mai.
+Let's go.*Chúng ta đi.
+Maybe.*Có lẽ.
+More than 200 miles.*Hơn 200 dặm.
+My house is close to the bank.*Nhà tôi gần ngân hàng.
+Near the bank.*Gần ngân hàng.
+On the left.*Bên trái.
+On the right.*Bên phải.
+On the second floor.*Trên tầng hai.
+Outside the hotel.*Bên ngoài khách sạn.
+Over here.*Ở đây.
+Over there.*Ở đằng kia.
+The book is behind the table.*Quyển sách ở sau cái bàn.
+The book is in front of the table.*Quyển sách ở trước cái bàn.
+The book is near the table.*Quyển sách ở gần cái bàn.
+The book is next to the table.*Quyển sách ở cạnh cái bàn.
+The book is on top of the table.*Quyển sách ở trên mặt bàn.
+There are some books on the table.*Có vài quyển sách trên bàn.
+There's a book under the table.*Có một quyển sách dưới bàn.
+We're from California.*Chúng tôi từ California.
+What's the address?*Địa chỉ là gì?
+Where are you going?*Bạn sẽ đi đâu?
+Where is it?*Nó ở đâu?
+Where would you like to go?*Bạn muốn đi đâu?
+Who won?*Ai đã thắng?
+Can I see your passport please?*Làm ơn cho xem thông hành của bạn.
+Can I take a message?*Tôi có thể nhận một lời nhắn không?
+Can I try it on?*Tôi có thể mặc thử không?
+Can we sit over there?*Chúng tôi có thể ngồi ở đằng kia không?
+Did you come with your family?*Bạn tới với gia đình hả?
+Do you think it's possible?*Bạn có nghĩ điều đó có thể xảy ra không?
+Here's my number.*Đây là số của tôi.
+He's not in right now.*Ngay lúc này anh ta không có đây.
+Hi, is Mrs. Smith there, please?*Chào, có phải bà Smith ở đằng kia không?
+I have three children, two girls and one boy.*Tôi có ba người con, hai gái một trai.
+I need some tissues.*Tôi cần một ít khăn giấy.
+I want to give you a gift.*Tôi muốn tặng bạn một món quà.
+I'd like some water too, please.*Tôi cũng muốn một ít nước, xin vui lòng.
+I'd like to buy a bottle of water, please.*Tôi muốn mua một chai nước, xin vui lòng.
+I'd like to buy something.*Tôi muốn mua một món đồ.
+I'd like to go to the store.*Tôi muốn đến cửa hàng.
+I'd like to rent a car.*Tôi muốn thuê xe hơi.
+I'd like to send a fax.*Tôi muốn gửi phắc.
+I'd like to send this to America.*Tôi muốn gửi cái này đi Mỹ.
+I'd like to speak to Mr. Smith please.*Tôi muốn nói chuyện với ông Smith, xin vui lòng.
+I'll be right back.*Tôi sẽ trở lại ngay.
+I'll call back later.*Tôi sẽ gọi lại sau.
+I'll call you on Friday.*Tôi sẽ gọi bạn vào thứ sáu.
+I'll teach you.*Tôi sẽ dạy bạn.
+I'm ok.*Tôi ổn.
+Is there an English speaking guide?*Có hướng dẫn viên nói tiếng Anh không?
+Male or female?*Nam hay nữ?
+My cell phone doesn't have good reception.*Điện thoại di động của tôi không nhận tín hiệu tốt.
+My cell phone doesn't work.*Điện thoại di động của tôi bị hỏng.
+Please take off your shoes.*Làm ơn cởi giày ra.
+Sorry, I think I have the wrong number.*Xin lỗi, tôi nghĩ tôi gọi nhầm số.
+What is the area code?*Mã vùng là bao nhiêu?
+What's the name of the company you work for?*Tên của công ty bạn làm việc là gì?
+What's wrong?*Có gì không ổn?
+What's your address?*Địa chỉ của bạn là gì?
+Where can I find a hospital?*Tôi có thể tìm được một bệnh viện ở đâu?
+Where's the closest restaurant?*Nhà hàng gần nhất ở đâu?
+Where's the pharmacy?*Hiệu thuốc ở đâu?
+Who are you?*Bạn là ai?
+Who is that?*Đó là ai?
+Who would you like to speak to?*Bạn muốn nói chuyện với ai?
+Will you take me home?*Làm ơn đưa tôi về nhà.
+Would you like water or milk?*Bạn muốn uống nước hay sữa?
+11 days ago.*Cách đây 11 ngày.
+2 hours.*2 tiếng.
+A long time ago.*Cách nay đã lâu.
+All day.*Suốt ngày.
+Are they coming this evening?*Tối nay họ có tới không?
+Are you comfortable?*Bạn có thoải mái không?
+Are your children with you?*Con của bạn có đi với bạn không?
+As soon as possible.*Càng sớm càng tốt.
+At 3 o'clock in the afternoon.*Lúc 3 giờ chiều.
+At 5th street.*Tại đường số 5.
+At 7 o'clock at night.*Lúc 7 giờ tối.
+At 7 o'clock in the morning.*Lúc 7 giờ sáng.
+At what time did it happen?*Việc đó xảy ra lúc mấy giờ?
+Can I help you?*Tôi có thể giúp gì bạn?
+Do you have a swimming pool?*Bạn có hồ bơi không?
+Do you have this in size 11?*Bạn có món này cỡ 11 không?
+Do you think you'll be back by 11:30?*Bạn có nghĩ là bạn sẽ trở lại lúc 11:30 không?
+Every week.*Hàng tuần.
+Everyday I get up at 6AM.*Hàng ngày tôi dạy lúc 6 giờ sáng.
+Expiration date.*Ngày hết hạn.
+Have you been waiting long?*Bạn đợi đã lâu chưa?
+He'll be back in 20 minutes.*Anh ta sẽ trở lại trong vòng 20 phút nữa.
+His family is coming tomorrow.*Gia đình anh ta sẽ tới vào ngày mai.
+How about Saturday?*Còn thứ bảy thì sao?
+How long are you going to stay in California?*Bạn sẽ ở California bao lâu?
+How long are you going to stay?*Bạn sẽ ở bao lâu?
+How long will it take?*Sẽ mất bao lâu?
+How much altogether?*Tất cả bao nhiêu?
+How much will it cost?*Sẽ tốn bao nhiêu?
+I don't have enough money.*Tôi không có đủ tiền.
+I'm getting ready to go out.*Tôi chuẩn bị đi.
+I'm just looking.*Tôi chỉ xem thôi. (mua sắm)
+I'm worried too.*Tôi cũng lo.
+It rained very hard today.*Hôm nay trời mưa rất lớn.
+It'll be cold this evening.*Tối nay trời sẽ lạnh.
+It's 17 dollars.*Giá 17 đồng.
+It's 6AM.*Bây giờ là 6 giờ sáng.
+It's 8:45.*Bây giờ là 8:45.
+It's a quarter to 7.*Bây giờ là 7 giờ thiếu 15.
+It's going to snow today.*Hôm nay trời sẽ mưa tuyết.
+It's here.*Nó đây.
+It's there.*Nó ở đó.
+I've already seen it.*Tôi đã xem nó.
+John is going on vacation tomorrow.*Ngày mai John sẽ đi nghỉ mát.
+My birthday is August 27th.*Sinh nhật của tôi là 27 tháng 8.
+Now or later?*Bây giờ hoặc sau?
+October 22nd.*22 tháng mười.
+She wants to know when you're coming.*Cô ta muốn biết khi nào bạn tới.
+Sometimes I go to sleep at 11PM, sometimes at 11:30PM.*Thỉnh thoảng tôi đi ngủ lúc 11 giờ tối, thỉnh thoảng 11:30.
+The whole day.*Cả ngày.
+There's plenty of time.*Có nhiều thời gian.
+We're late.*Chúng ta trễ.
+What day are they coming over?*Ngày nào họ sẽ tới?
+What day of the week is it?*Hôm nay là thứ mấy?
+What is today's date?*Hôm nay ngày mấy?
+What time are they arriving?*Mấy giờ họ sẽ tới?
+What time did you get up?*Bạn đã thức dậy lúc mấy giờ?
+What time did you go to sleep?*Bạn đã đi ngủ lúc mấy giờ?
+What time did you wake up?*Bạn tỉnh giấc lúc mấy giờ?
+What time do you think you'll arrive?*Bạn nghĩ bạn sẽ tới lúc mấy giờ?
+What time does it start?*Mấy giờ nó bắt đầu?
+What time is it?*Bây giờ là mấy giờ?
+What's your religion?*Bạn theo tôn giáo nào?
+When are they coming?*Khi nào họ tới?
+When are you coming back?*Khi nào bạn trở lại?
+When are you going to pick up your friend?*Khi nào bạn đón người bạn của bạn?
+When are you leaving?*Khi nào bạn ra đi?
+When are you moving?*Khi nào bạn chuyển đi?
+When I went to the store, they didn't have any apples.*Khi tôi tới cửa hàng, họ không có táo.
+When is the next bus to Philadelphia?*Chuyến xe buýt kế tiếp đi Philadelphia khi nào?
+When is your birthday?*Sinh nhật bạn khi nào?
+When was the last time you talked to your mother?*Bạn nói chuyện với mẹ bạn lần cuối khi nào?
+When will he be back?*Khi nào anh ta sẽ trở lại?
+When will it be ready?*Khi nào nó sẽ sẵn sàng?
+Where are you going to go?*Bạn sẽ đi đâu?
+Are you busy?*Bạn có bận không?
+Can we have some more bread please?*Làm ơn cho thêm ít bánh mì.
+Do you have any money?*Bạn có tiền không?
+For how many nights?*Cho mấy đêm?
+How long will you be staying?*Bạn sẽ ở bao lâu?
+I need a doctor.*Tôi cần một bác sĩ.
+I'd like a map of the city.*Tôi muốn một tấm bản đồ của thành phố.
+I'd like a non-smoking room.*Tôi muốn một phòng không hút thuốc.
+I'd like a room with two beds please.*Tôi muốn một phòng với 2 giường, xin vui lòng.
+I'd like a room.*Tôi muốn một phòng.
+Is there a nightclub in town?*Có hộp đêm trong thị xã không?
+Is there a restaurant in the hotel?*Trong khách sạn có nhà hàng không?
+Is there a store near here?*Có cửa hàng gần đây không?
+Sorry, we don't have any vacancies.*Xin lỗi, chúng tôi không còn phòng trống.
+Take me to the Marriott Hotel.*Đưa tôi tới khách sạn Marriott.
+What time is check out?*Mấy giờ trả phòng?
+What's the charge per night? (Hotel)*Giá bao nhiêu một đêm? (Khách sạn)
+Where is the airport?*Phi trường ở đâu?
+Where's the mail box?*Hộp thư ở đâu?
+Are you here alone?*Bạn ở đây một mình hả?
+Can I bring my friend?*Tôi có thể mang theo bạn không?
+Can I have a receipt please?*Làm ơn cho tôi hóa đơn.
+Can it be cheaper?*Có thể rẻ hơn không?
+Can we have a menu please.*Làm ơn đưa xem thực đơn.
+Can you hold this for me?*Bạn có thể giữ giùm tôi cái này được không?
+Do you have any children?*Bạn có con không?
+Do you know how much it costs?*Bạn có biết nó giá bao nhiêu không?
+Have you eaten at that restaurant?*Bạn đã ăn ở nhà hàng này chưa?
+Have you eaten yet?*Bạn đã ăn chưa?
+Have you ever had Potato soup?*Bạn đã từng ăn xúp khoai chưa?
+He likes juice but he doesn't like milk*Anh ta thích nước trái cây nhưng anh ta không thích sữa.
+Here is your salad.*Rau của bạn đây.
+Here's your order.*Đây là món hàng bạn đặt.
+How does it taste?*Nó có vị ra sao?
+How many people?*Bao nhiêu người? (nhà hàng)
+I agree.*Tôi đồng ý.
+I haven't been there.*Tôi đã không ở đó.
+I haven't finished eating.*Tôi chưa ăn xong.
+I like it.*Tôi thích nó.
+I only have 5 dollars.*Tôi chỉ có 5 đô la.
+I think I need to see a doctor.*Tôi nghĩ tôi cần gặp bác sĩ.
+I understand.*Tôi hiểu.
+I'd like a table near the window.*Tôi muốn một phòng gần cửa sổ.
+I'd like to call the United States.*Tôi muốn gọi sang Mỹ.
+I'll give you a call.*Tôi sẽ gọi điện cho bạn.
+I'll have a cup of tea please.*Tôi sẽ uống một tách trà, xin vui lòng.
+I'll have a glass of water please.*Tôi sẽ uống một ly nước, xin vui lòng.
+I'm from America.*Tôi từ Mỹ tới.
+I'm going to bed.*Tôi sẽ đi ngủ.
+I'm here on business.*Tôi ở đây để làm ăn.
+I'm sorry.*Tôi rất tiếc.
+It's August 25th.*Hôm nay là 25 tháng 8.
+June 3rd.*Mùng 3 tháng 6.
+The food was delicious.*Thức ăn ngon.
+There are some apples in the refrigerator.*Có vài trái táo trong tủ lạnh.
+There's a restaurant near here.*Có một nhà hàng gần đây.
+There's a restaurant over there, but I don't think it's very good.*Có một nhà hàng ở đằng kia, nhưng tôi không nghĩ là nó ngon lắm.
+Waiter!*Anh phục vụ!
+Waitress!*Cô phục vụ!
+We can eat Italian or Chinese food.*Chúng tôi có thể ăn thức ăn Ý hoặc Trung Hoa.
+We'll have two glasses of water please.*Chúng tôi sẽ dùng 2 ly nước, xin vui lòng.
+What are you going to have?*Bạn sẽ dùng gì?
+What do you recommend?*Bạn đề nghị gì?
+What would you like to drink?*Bạn muốn uống gì?
+What would you like to eat?*Bạn muốn ăn gì?
+What's your email address?*Địa chỉ email của bạn là gì?
+Where is an ATM?*Máy rút tiền tự động ở đâu?
+Where is there a doctor who speaks English?*Ở đâu có một bác sĩ nói tiếng Anh?
+Which one?*Cái nào?
+Would you ask him to come here?*Làm ơn nói anh ta tới đây.
+Would you like a glass of water?*Bạn muốn một ly nước không?
+Would you like coffee or tea?*Bạn muốn uống cà phê hay trà?
+Would you like some water?*Bạn muốn một ít nước không?
+Would you like some wine?*Bạn muốn một ít rượu không?
+Would you like something to drink?*Bạn muốn uống thứ gì không?
+Would you like to go for a walk?*Bạn muốn đi dạo không?
+Would you like to watch TV?*Bạn muốn xem tivi không?
+Are you American?*Bạn có phải là người Mỹ không?
+Are you coming this evening?*Tối nay bạn tới không?
+Are you free tonight?*Tối nay bạn rảnh không?
+Are you going to take a plane or train?*Bạn sẽ đi máy bay hay tàu hỏa?
+Are you hungry?*Bạn có đói không?
+Are you sure?*Bạn chắc không?
+Are you working Tomorrow?*Ngày mai bạn có làm việc không?
+Business is good.*Việc làm ăn tốt.
+Cheers!*Chúc sức khỏe!
+Did it snow yesterday?*Trời có tuyết hôm qua không?
+Did you get my email?*Bạn có nhận được email của tôi không?
+Did you take your medicine?*Bạn đã uống thuốc chưa?
+Do you feel better?*Bạn có cảm thấy khỏe hơn không?
+Do you go to Florida often?*Bạn có thường đi Florida không?
+Do you have another one?*Bạn có cái khác không?
+Do you know where there's a store that sells towels?*Bạn có biết ở đâu có cửa hàng bán khăn tắm không?
+Do you like it here?*Bạn có thích nơi đây không?
+Do you like the book?*Bạn có thích quyển sách này không?
+Do you need anything?*Bạn có cần gì không?
+Do you play any sports?*Bạn có chơi môn thể thao nào không?
+Do you sell medicine?*Bạn có bán dược phẩm không?
+Do you study English?*Bạn có học tiếng Anh không?
+Do you want to come with me?*Bạn có muốn đi với tôi không?
+Do you want to go with me?*Bạn có muốn đi với tôi không?
+Excuse me.*Xin lỗi.
+Give me a call.*Gọi điện cho tôi.
+Has your brother been to California?*Anh (em trai) của bạn đã từng tới California chưa?
+Have they met her yet?*Họ gặp cô ta chưa?
+Have you done this before?*Bạn đã làm việc này trước đây chưa?
+How long have you been here?*Bạn đã ở đây bao lâu?
+How long have you been in America?*Bạn đã ở Mỹ bao lâu?
+How long have you lived here?*Bạn đã sống ở đây bao lâu?
+How many children do you have?*Bạn có bao nhiêu người con?
+How many languages do you speak?*Bạn nói bao nhiêu ngôn ngữ?
+How many people do you have in your family?*Bạn có bao nhiêu người trong gia đình?
+How much would you like?*Bạn muốn bao nhiêu?
+How old are you?*Bạn bao nhiêu tuổi?
+I bought a shirt yesterday.*Hôm qua tôi mua một cái áo sơ mi.
+I don't feel well.*Tôi không cảm thấy khỏe.
+I have pain in my arm.*Tôi bị đau ở tay.
+I have to wash my clothes.*Tôi phải giặt quần áo.
+I have two sisters.*Tôi có 2 người chị (em gái).
+I remember.*Tôi nhớ.
+I speak a little English.*Tôi nói một chút tiếng Anh.
+I'll tell him you called.*Tôi sẽ nói với anh ta là bạn đã gọi điện.
+I'm 32.*Tôi 32
+I'm 6'2".*Tôi cao 6'2"
+I'm a size 8.*Tôi cỡ 8
+I'm allergic to seafood.*Tôi dị ứng hải sản.
+I'm American.*Tôi là người Mỹ.
+I'm fine, and you?*Tôi khỏe, còn bạn?
+I'm not afraid.*Tôi không sợ.
+I'm sick.*Tôi ốm.
+Is your house like this one?*Nhà của bạn có giống căn nhà này không?
+Is your husband also from Boston?*Chồng của bạn cũng từ Boston hả?
+It's not very expensive.*Nó không đắt lắm.
+I've been there.*Tôi đã ở đó.
+Let's share.*Chúng ta hãy chia nhau.
+My daughter is here.*Con gái tôi ở đây.
+My father has been there.*Bố tôi đã ở đó.
+My father is a lawyer.*Bố tôi là luật sư.
+My grandmother passed away last year.*Bà tôi mất hồi năm ngoái.
+My name is John Smith.*Tên tôi là John Smith.
+My son studies computers.*Con trai tôi học máy tính.
+My son.*Con trai tôi.
+No, I'm American.*Không. Tôi là người Mỹ.
+No, this is the first time.*Không, đây là lần đầu tiên.
+Our children are in America.*Các con tôi ở Mỹ.
+She's an expert.*Cô ta là chuyên gia.
+She's older than me.*Cô ta lớn tuổi hơn tôi.
+That car is similar to my car.*Chiếc xe đó giống xe của tôi.
+This is Mrs. Smith.*Đây là bà Smith.
+This is my mother.*Đây là mẹ tôi.
+This is the first time I've been here.*Đây là lần đầu tiên tôi ở đây.
+We have two boys and one girl.*Chúng tôi có hai trai và một gái.
+What are you going to do tonight?*Bạn sẽ làm gì tối nay?
+What are your hobbies?*Thú vui của bạn là gì?
+What do you study?*Bạn học gì?
+What do you want to do?*Bạn muốn làm gì?
+What school did you go to?*Bạn đã đi học trường nào?
+What's your favorite movie?*Bộ phim ưa thích của bạn là phim gì?
+What's your last name?*Họ của bạn là gì?
+What's your name?*Tên của bạn là gì?
+Where are the t-shirts?*Áo thun ở đâu?
+Where did you go?*Bạn đã đi đâu?
+Where did you learn English?*Bạn đã học tiếng Anh ở đâu?
+Where did you work before you worked here?*Bạn đã làm việc ở đâu trước khi bạn làm việc ở đây?
+Where do you live?*Bạn sống ở đâu?
+Where were you?*Bạn đã ở đâu?
+Who sent this letter?*Ai đã gửi lá thư này?
+Would you like to buy this?*Bạn muốn mua cái này không?
+You speak English very well.*Bạn nói tiếng Anh rất giỏi.
+Your children are very well behaved.*Các con của bạn rất ngoan.
+Your daughter.*Con gái của bạn.
+You're smarter than him.*Bạn thông minh hơn anh ta.
+Are there any concerts?*Có buổi hòa nhạc nào không?
+Do you want to go to the movies?*Bạn có muốn đi xem phim không?
+Have you seen this movie?*Bạn đã xem phim này chưa?
+He said you like to watch movies.*Anh ta nói bạn thích xem phim.
+How tall are you?*Bạn cao bao nhiêu?
+Is the bank far?*Ngân hàng có xa không?
+Is there a movie theater nearby?*Có rạp chiếu phim gần đây không?
+What do people usually do in the summer in Los Angeles?*Người ta thường làm gì vào mùa hè ở Los Angeles?
+What kind of music do you like?*Bạn thích loại nhạc gì?
+What time does the movie start?*Mấy giờ phim bắt đầu?
+What's your favorite food?*Thức ăn ưa thích của bạn là gì?
+Who was your teacher?*Ai đã là thày giáo của bạn?
+Would you like to have dinner with me?*Bạn muốn ăn tối với tôi không?
+Would you like to rent a movie?*Bạn muốn thuê phim không?
+Can I have a glass of water please?*Làm ơn cho một ly nước.
+Can I use your phone?*Tôi có thể sử dụng điện thoại của bạn không?
+Do you have any vacancies?*Bạn có chỗ trống không?
+Do you have the number for a taxi?*Bạn có số điện thoại để gọi tắc xi không?
+Do you know her?*Bạn có biết cô ta không?
+Do you know where she is?*Bạn có biết cô ấy ở đâu không?
+Do you play basketball?*Bạn có chơi bóng rổ không?
+Fill it up, please.*Làm ơn đổ đầy. (cây xăng)
+He needs some new clothes.*Anh ta cần một ít quần áo mới.
+How much is that?*Cái đó giá bao nhiêu?
+How much is this?*Cái này giá bao nhiêu?
+I believe you.*Tôi tin bạn.
+I speak two languages.*Tôi nói 2 thứ tiếng.
+I thought he said something else.*Tôi nghĩ anh ta đã nói một điều gì khác.
+I usually drink coffee at breakfast.*Tôi thường uống cà phê vào bữa điểm tâm.
+I'd like the number for the Hilton Hotel please.*Tôi muốn số điện thoại của khách sạn Hilton, xin vui lòng.
+I'd like to buy a phone card please.*Tôi muốn mua một tấm thẻ điện thoại, xin vui lòng.
+I'd like to go home.*Tôi muốn về nhà.
+I'd like to go shopping.*Tôi muốn đi mua sắm.
+If you like it I can buy more.*Nếu bạn thích nó tôi có thể mua thêm.
+I'm a beginner.*Tôi mới bắt đầu.
+I'm full.*Tôi no rồi.
+I'm just kidding.*Tôi chỉ đùa thôi.
+I'm single.*Tôi độc thân.
+It's not too far.*Nó không xa lắm.
+Sorry, we don't have any.*Xin lỗi, chúng tôi không có cái nào.
+The books are expensive.*Những quyển sách đắt tiền.
+Try it on.*Mặc thử nó.
+What do you want to buy?*Bạn muốn mua gì?
+What size?*Cỡ mấy?
+What time does the store open?*Mấy giờ cửa hàng mở cửa?
+When does the plane arrive?*Khi nào máy bay tới?
+Where are you?*Bạn ở đâu?
+Would you like something to eat?*Bạn muốn ăn thứ gì không?
+Am I pronouncing it correctly?*Tôi phát âm nó đúng không?
+Can you do me a favor?*Bạn có thể giúp tôi một việc được không?
+Can you help me?*Bạn có thể giúp tôi không?
+Can you please say that again?*Bạn có thể nói lại điều đó được không?
+Can you show me?*Bạn có thể chỉ cho tôi không?
+Can you throw that away for me?*Bạn có thể quẳng cái đó đi giúp tôi được không?
+Do you believe that?*Bạn có tin điều đó không?
+Do you have a pencil?*Bạn có bút chì không?
+Do you smoke?*Bạn có hút thuốc không?
+Do you speak English?*Bạn có nói tiếng Anh không?
+Does anyone here speak English?*Có ai ở đây nói tiếng Anh không?
+Don't do that.*Đừng làm điều đó.
+Excuse me, what did you say?*Xin lỗi, bạn nói gì?
+Forget it.*Quên đi.
+How do you pronounce that?*Bạn phát âm chữ đó như thế nào?
+How do you say it in English?*Bạn nói điều đó bằng tiếng Anh như thế nào?
+How do you spell it?*Bạn đánh vần nó như thế nào?
+How do you spell the word Seattle?*Bạn đánh vần chữ Seattle như thế nào?
+I can swim.*Tôi có thể bơi.
+I can't hear you clearly.*Tôi nghe bạn không rõ.
+I don't mind.*Tôi không quan tâm.
+I don't speak English very well.*Tôi không nói tiếng Anh giỏi lắm.
+I don't think so.*Tôi không nghĩ vậy.
+I don't understand what your saying.*Tôi không hiểu bạn nói gì.
+I think you have too many clothes.*Tôi nghĩ bạn có nhiều quần áo quá.
+I trust you.*Tôi tin bạn.
+I understand now.*Bây giờ tôi hiểu.
+Is there air conditioning in the room?*Trong phòng có điều hòa không khí không?
+Let's meet in front of the hotel.*Chúng ta hãy gặp nhau trước khách sạn.
+Please sit down.*Xin mời ngồi.
+Please speak English.*Làm ơn nói tiếng Anh.
+Please speak more slowly.*Làm ơn nói chậm hơn.
+Sorry, I didn't hear clearly.*Xin lỗi, tôi nghe không rõ.
+That means friend.*Chữ đó có nghĩa bạn bè.
+That's wrong.*Sai rồi.
+Try to say it.*Gắng nói cái đó.
+What does this mean?*Cái này có nghĩa gì?
+What does this say?*Cái này nói gì?
+What does this word mean?*Chữ này nghĩa là gì?
+What's the exchange rate?*Hối suất bao nhiêu?
+Whose book is that?*Đó là quyển sách của ai?
+Why are you laughing?*Tại sao bạn cười?
+Why aren't you going?*Tại sao bạn không đi?
+Why did you do that?*Tại sao bạn đã làm điều đó?
+Are you allergic to anything?*Bạn có dị ứng với thứ gì không?
+Are you ready?*Bạn sẵn sàng chưa?
+Call me.*Gọi điện cho tôi.
+Did you send me flowers?*Bạn đã gửi hoa cho tôi hả?
+Do you sell batteries?*Bạn có bán pin không?
+I don't care.*Tôi không cần.
+I give up.*Tôi bỏ cuộc.
+I got in an accident.*Tôi gặp tai nạn.
+I have a cold.*Tôi bị cảm.
+I have one in my car.*Tôi có một cái trong xe.
+I made this cake.*Tôi làm cái bánh này.
+I still have a lot to do.*Tôi còn nhiều thứ phải làm.
+I still haven't decided.*Tôi vẫn chưa quyết định.
+I'm a teacher.*Tôi là giáo viên.
+I'm self-employed.*Tôi tự làm chủ.
+It depends on the weather.*Tùy vào thời tiết.
+It's very cold today.*Hôm nay trời rất lạnh.
+My luggage is missing.*Hành lý của tôi bị thất lạc.
+My stomach hurts.*Tôi đau bụng.
+My throat is sore.*Tôi đau họng.
+My watch has been stolen.*Đồng hồ tôi đã bị đánh cắp.
+Take this medicine.*Dùng thuốc này.
+The accident happened at the intersection.*Tai nạn xảy ra tại giao lộ.
+There has been a car accident.*Đã có một tai nạn xe hơi.
+Where can I exchange U.S. dollars?*Tôi có thể đổi đô la Mỹ ở đâu?
+Where do you work?*Bạn làm việc ở đâu?
+Where's the nearest hospital?*Bệnh viện gần nhất ở đâu?
+Where's the post office?*Bưu điện ở đâu?
+And you?*Còn bạn?
+Anything else?*Còn gì nữa không?
+Are they the same?*Chúng giống nhau không?
+Are you afraid?*Bạn sợ không?
+Are you going to attend their wedding?*Bạn sẽ dự đám cưới của họ không?
+Are you married?*Bạn có gia đình không?
+Are you okay?*Bạn có khỏe không?
+Are you sick?*Bạn ốm hả?
+Behind the bank.*Sau ngân hàng.
+Can I borrow some money?*Tôi có thể mượn một ít tiền không?
+Can I have the bill please?*Làm ơn đưa phiếu tính tiền.
+Can you call back later?*Bạn có thể gọi lại sau được không?
+Can you call me back later?*Bạn có thể gọi lại cho tôi sau được không?
+Can you carry this for me?*Bạn có thể mang giúp tôi cái này được không?
+Can you fix this?*Bạn có thể sửa cái này không?
+Can you give me an example?*Bạn có thể cho tôi một thí dụ được không?
+Can you speak louder please?*Bạn có thể nói lớn hơn được không?
+Can you swim?*Bạn biết bơi không?
+Do you accept U.S. Dollars?*Bạn có nhận đô Mỹ không?
+Do you have a girlfriend?*Bạn có bạn gái không?
+Do you have a problem?*Bạn có vấn đề à?
+Do you have an appointment?*Bạn có hẹn không?
+Do you hear that?*Bạn có nghe cái đó không?
+Do you know how to get to the Marriott Hotel?*Bạn có biết đường tới khách sạn Marriott không?
+Do you know what this means?*Bạn có biết cái này nghĩa là gì không?
+Do you know where I can get a taxi?*Bạn có biết tôi có thể gọi tắc xi ở đâu không?
+Do you know where my glasses are?*Bạn có biết cặp kính của tôi ở đâu không?
+Do you like your co-workers?*Bạn có thích bạn đồng nghiệp của bạn không?
+Do you need anything else?*Bạn còn cần gì nữa không?
+Do you understand?*Bạn có hiểu không?
+Does he like the school?*Anh ta có thích trường đó không/
+Give me the pen.*Đưa tôi cây viết.
+How do you know?*Làm sao bạn biết?
+How is she?*Cô ta thế nào?
+How long is it?*Nó dài bao nhiêu?
+How many?*Bao nhiêu?
+How much is it?*Nó giá bao nhiêu?
+I have a lot of things to do.*Tôi có nhiều việc phải làm.
+In 30 minutes.*Trong vòng 30 phút.
+Is anyone else coming?*Còn ai khác tới không?
+Is everything ok?*Mọi việc ổn không?
+Is it cold outside?*Bên ngoài trời lạnh không?
+Is it far from here?*Nó cách xa đây không?
+Is it hot?*Nó nóng không?
+Is it raining?*Trời đang mưa không?
+Is there anything cheaper?*Có thứ gì rẻ hơn không?
+Is your son here?*Con trai bạn có đây không?
+Should I wait?*Tôi nên đợi không?
+The big one or the small one?*Cái lớn hay cái nhỏ?
+The cars are American.*Những chiếc xe là xe Mỹ.
+Were there any problems?*Đã có vấn đề gì không?
+Were you at the library last night?*Bạn có ở thư viện tối qua không?
+What are you doing?*Bạn đang làm gì?
+What are you thinking about?*Bạn đang nghĩ gì?
+What are you two talking about?*Hai bạn đang nói chuyện gì?
+What did you do last night?*Tối qua bạn làm gì?
+What did you do yesterday?*Hôm qua bạn làm gì?
+What did you think?*Bạn đã nghĩ gì?
+What do they study?*Họ học gì?
+What do you have?*Bạn có gì?
+What do you think?*Bạn nghĩ gì?
+What happened?*Điều gì đã xảy ra?
+What is it?*Nó là cái gì?
+What is that?*Đó là cái gì?
+What should I wear?*Tôi nên mặc gì?
+What's in it?*Có gì trong nó?
+What's the temperature?*Nhiệt độ bao nhiêu?
+What's this?*Cái gì đây?
+What's up?*Có chuyện gì vậy?
+Where are you from?*Bạn từ đâu tới?
+Where can I rent a car?*Tôi có thể thuê xe hơi ở đâu?
+Where did it happen?*Nó đã xảy ra ở đâu?
+Where did you learn it?*Bạn đã học nó ở đâu?
+Where is he from?*Anh ta từ đâu tới?
+Where is he?*Anh ta ở đâu?
+Which is better, the spaghetti or chicken salad?*Món nào ngon hơn, mì Ý hay rau gà?
+Which one do you want?*Bạn muốn cái nào?
+Which one is cheaper?*Cái nào rẻ hơn?
+Which one is the best?*Cái nào tốt nhất?
+Which school does he go to?*Anh ta học trường nào?
+Who are they?*Họ là ai?
+Who are you looking for?*Bạn đang tìm ai?
+Who is it?*Ai đây? (hỏi ai đang gọi điện thoại)
+Who taught you that?*Ai dạy bạn cái đó?
+Who's calling?*Ai đang gọi?
+Who's that man over there?*Người đàn ông đằng kia là ai?
+Why did you say that?*Tại sao bạn đã nói điều đó?
+Will you pass me the salt please?*Làm ơn đưa giùm tôi lọ muối.
+Will you put this in the car for me?*Làm ơn đặt cái này vào trong xe giúp tôi.
+Would you ask him to call me back please?*Làm ơn nói với anh ta gọi lại cho tôi.
+Yes.*Vâng.
+You have a very nice car.*Bạn có một chiếc xe rất đẹp.
+You look like my sister.*Bạn trông giống em gái (chị) của tôi.
+6 dollars per hour.*6 đô 1 giờ.
+Are you waiting for someone?*Bạn đang chờ ai đó hả?
+Are you working today?*Hôm nay bạn có làm việc không?
+Bring me my shirt please.*Làm ơn đưa giùm cái áo sơ mi của tôi.
+Do you like to watch TV?*Bạn có thích xem tivi không?
+Do you like your boss?*Bạn có thích sếp của bạn không?
+Have you finished studying?*Bạn đã học xong chưa?
+He works at a computer company in New York.*Anh ta làm việc tại một công ty máy tính ở New York.
+He's an Engineer.*Anh ta là kỹ sư.
+He's very hard working.*Anh ta rất chăm chỉ.
+How long have you worked here?*Bạn đã làm việc ở đây bao lâu?
+How many hours a week do you work?*Bạn làm việc mấy giờ một tuần?
+How much money do you have?*Bạn có bao nhiêu tiền?
+How was the trip?*Chuyến đi thế nào?
+How's the weather?*Thời tiết thế nào?
+I forget.*Tôi quên.
+I still have a lot of things to buy.*Tôi còn nhiều thứ phải mua.
+I'm good.*Tôi khỏe.
+I'm ready.*Tôi sẵn sàng.
+I've seen it.*Tôi đã thấy nó.
+What do you do for work?*Bạn làm nghề gì?
+What do your parents do for work?*Bố mẹ bạn làm nghề gì?
+What does he do for work?*Anh ta làm nghề gì?
+What does your father do for work?*Bố bạn làm nghề gì?
+What time do you go to work everyday?*Mỗi ngày bạn đi làm lúc mấy giờ?
+What's the matter?*Có chuyện gì vậy?
+When do you arrive in the U.S.?*Khi nào bạn tới Mỹ?
+When do you get off work?*Khi nào bạn xong việc?
+Where did you put it?*Bạn đã đặt nó ở đâu?
+Where do you want to go?*Bạn muốn đi đâu?
+Where does it hurt?*Đau ở đâu?
+Come here.*Tới đây.
+Do you think it'll rain today?*Bạn có nghĩ ngày mai trời sẽ mưa không?
+Do you think it's going to rain tomorrow?*Bạn có nghĩ ngày mai trời sẽ mưa không?
+Does it often snow in the winter in Massachusetts?*Trời có thường mưa tuyết vào mùa đông ở Massachusetts không?
+How's business?*Việc làm ăn thế nào?
+Is it close?*Nó gần không?
+Is it possible?*Điều đó có thể không?
+Is it ready?*Nó sẵn sàng không?
+It costs 20 dollars per hour.*Giá 20 đô một giờ.
+It hurts here.*Đau ở đây.
+It will arrive shortly.*Nó sẽ sớm tới.
+It's far from here.*Nó cách xa đây.
+It's going to be hot today.*Hôm nay trời sẽ nóng.
+It's north of here.*Nó ở phía bắc nơi này.
+It's over there.*Nó ở đằng kia.
+It's raining.*Trời đang mưa.
+It's too late.*Muộn quá rồi.
+It's very important.*Nó rất quan trọng.
+The roads are slippery.*Đường trơn.
+What will the weather be like tomorrow?*Ngày mai thời tiết thế nào?
+What's the room rate?*Giá phòng bao nhiêu?From time to time.*Thỉnh thoảng.
